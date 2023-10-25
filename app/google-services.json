@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546741936814",
+    "project_id": "rdhomeworkl26examproject",
+    "storage_bucket": "rdhomeworkl26examproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546741936814:android:2b73041224228a96bbc33f",
+        "android_client_info": {
+          "package_name": "com.example.rdhomework26"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546741936814-ccghlrp5qva1jejouri9a1svij5lg10s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rdhomework26",
+            "certificate_hash": "7d31c4330eb3c391aa90b0a8644dc9734d3513f4"
+          }
+        },
+        {
+          "client_id": "546741936814-j3mtarn9bhvvu57r4eokqj9aomh8i1is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkycK9J7fUbgNQKAQZSJjLIX2yH1ZZ-9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546741936814-j3mtarn9bhvvu57r4eokqj9aomh8i1is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
